@@ -11,7 +11,6 @@ class Board
   end
   
   def display
-    @cells
   end
   
 end
